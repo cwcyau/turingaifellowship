@@ -1,1 +1,1 @@
-# turingaifellowship
+# Turing AI Fellowship
